@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "542179236472",
+    "firebase_url": "https://firedemo-b0659.firebaseio.com",
+    "project_id": "firedemo-b0659",
+    "storage_bucket": "firedemo-b0659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542179236472:android:4698c5bdd460e0cd",
+        "android_client_info": {
+          "package_name": "com.zuantech.zuansys104.firedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542179236472-mosvviedt64ug2fb0blk9inbmokis4u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+
+        {  "current_key": "AIzaSyBmOfmoogyfS2o0epXFHFcs2wCCHkjzau0" }
+
+
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+
+  "configuration_version": "1"
+}
